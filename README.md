@@ -1,7 +1,7 @@
 # LeetCode
 
 > Solve LeetCode problems in VS Code
-
+n
 <p align="center">
   <img src="https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.png" alt="">
 </p>
@@ -26,7 +26,7 @@
 + `C:\Users\sunyj\.vscode\extensions\leetcode.vscode-leetcode-0.18.1\out\src\commands\show.js`
 + `C:\Users\sunyj\.vscode\extensions\leetcode.vscode-leetcode-0.18.1\out\src\commands\list.js`
 ## 使用
-`cd C:\Users\sunyj\.vscode\extensions`
+`cd C:\Users\sunyj\.vscode\extensions`  
 `git cone git@github.com:Bulbbbb/leetcode.vscode-leetcode-0.18.1.git`
 ## 感谢
 
